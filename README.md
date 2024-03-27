@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist / Machine Learning Engineer
 ------------------------------------------
 
-Welcome to my GitHub! A journey that began in school over a decade ago led me to a profession in Machine Learning Engineering 2.5 years back. Here, you'll find diverse projects reflecting my passion for technology. Let's connect, collaborate, and innovate together, shaping the future of machine learning. Welcome aboard, and happy coding! 🚀
+Welcome to my GitHub! A journey that began in school over a decade ago led me to a profession in Machine Learning Engineering in 2022. Here, you'll find diverse projects reflecting my passion for technology. Let's connect, collaborate, and innovate together, shaping the future of machine learning. Welcome aboard, and happy coding! 🚀
 
 *   🌍  I'm based in Delhi, India
 *   🧠  I'm learning Named Entity Recognition
